@@ -1,0 +1,2 @@
+C:\Users\logan\source\repos\ClassRosterProject\Debug\ClassRosterProject.exe
+C:\Users\logan\source\repos\ClassRosterProject\Debug\ClassRosterProject.pdb
